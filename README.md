@@ -1,2 +1,7 @@
-# cpphashlib
-This lib was born by the need of have a hash library without include the openSSL src
+# What is CPPHashLib
+
+A simple hashing library to avoid the needed of OpenSSL (which is a big library).
+
+# Features
+
+* MD5 Sum
